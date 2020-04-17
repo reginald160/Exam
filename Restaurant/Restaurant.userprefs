@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Restaurant\Restaurant.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant\Restaurant.cs">
+    <Files>
+      <File FileName="Restaurant\Program.cs" Line="15" Column="1" />
+      <File FileName="Restaurant\Restaurant.cs" Line="64" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

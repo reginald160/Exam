@@ -1,0 +1,4 @@
+C:\c#\Exam\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\c#\Exam\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\c#\Exam\Restaurant\Restaurant\obj\x86\Debug\Restaurant.exe
+C:\c#\Exam\Restaurant\Restaurant\obj\x86\Debug\Restaurant.pdb
